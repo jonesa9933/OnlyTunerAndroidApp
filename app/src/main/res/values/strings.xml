@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OnlyTuner</string>
+
+    <string-array name="tunings">
+        <item>E Standard</item>
+        <item>Drop D</item>
+        <item>E\u266D Standard</item>
+        <item>Drop D\u266D</item>
+        <item>D Standard</item>
+        <item>Open G</item>
+    </string-array>
+
+    <string-array name="tuningVals">
+        <item>E A D G B E</item>
+        <item>D A D G B E</item>
+        <item>E\u266D A\u266D D\u266D G\u266D B\u266D E\u266D</item>
+        <item>D\u266D A\u266D D\u266D G\u266D B\u266D E\u266D</item>
+        <item>D G C F A D</item>
+        <item>D G D G B D</item>
+    </string-array>
+</resources>

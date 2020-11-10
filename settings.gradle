@@ -1,0 +1,4 @@
+include ':TarsosDSP-latest'
+include ':TarsosDSP'
+include ':app'
+rootProject.name = "Tuner"
